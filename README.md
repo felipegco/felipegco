@@ -1,67 +1,161 @@
+<!-- Header -->
 <div align="center">
-  
-## Felipe Giacomini Cocco  
-**Backend / Full Stack Developer | Java | REST APIs | Cloud Fundamentals**
 
-Developer focused on backend and full stack applications, working with REST APIs, scalable web systems, and service integration. Hands-on experience with Java (Spring Boot), relational databases, and modern frontend development.
-
- **Current focus:** Backend development with Java, REST APIs, and cloud fundamentals  
- **Interests:** Distributed systems, software architecture, and best practices  
- **Continuous learning:** AWS (Lambda, S3, DynamoDB), TypeScript, and API design
-
----
-
-### Connect with me
-<a href="https://linkedin.com/in/felipegcocco">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:fgiacominicocco@gmail.com">
-  <img src="https://img.shields.io/badge/Email-990000?logo=gmail&logoColor=white"/>
-</a>
-<a href="https://fecocco.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white"/>
+<a href="https://github.com/felipegco">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=Back-end+Developer;REST+APIs%2C+JWT%2C+JPA+and+relational+databases;Linux%2C+Docker+and+AWS+on+the+deploy+side;Building+LLM-powered+automations+with+n8n;Open+to+junior+and+internship+roles" alt="Typing SVG" />
 </a>
 
----
-  
-### Tech Stack
-  
-**Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+<br/><br/>
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+<a href="https://linkedin.com/in/felipegcocco"><img src="https://img.shields.io/badge/LinkedIn-felipegcocco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:fgiacominicocco@gmail.com"><img src="https://img.shields.io/badge/Email-fgiacominicocco-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://felipegco.github.io/"><img src="https://img.shields.io/badge/Portfolio-felipegco.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-
-**Dev & Infra**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeCocco&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeCocco&theme=github_dark)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeCocco&theme=github_dark)
+<img src="https://komarev.com/ghpvc/?username=felipegco&label=Profile%20views&color=1f6feb&style=flat-square" />
 
 </div>
+
+
+---
+
+About me
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=felipegco&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" />
+
+- Back-end developer focused on Java 17 and Spring Boot 3: REST APIs, Spring Security with JWT, JPA/Hibernate, PostgreSQL and MariaDB.
+- Almost 2 years in corporate IT (Linux and Windows servers, Active Directory, automation scripts, production incident troubleshooting), so I care about code that runs well outside my machine.
+- I build LLM-powered automations: prompt design in Portuguese, output validation and safe fallbacks.
+- Information Systems student at FHO, graduating Dec 2027.
+- Currently studying AWS (Cloud Practitioner), automated testing (JUnit 5, Mockito, Testcontainers) and CI/CD with GitHub Actions.
+
+<br clear="right"/>
+
+
+---
+
+Tech stack
+
+<div align="center">
+
+Back-end
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,python,django&theme=dark" />
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+
+Infra & DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,bash&theme=dark" />
+
+Front-end
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind&theme=dark" />
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman&theme=dark" />
+<img height="48" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</div>
+
+
+---
+
+Featured projects
+
+<div align="center">
+
+<a href="https://github.com/felipegco/e-move-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=felipegco&repo=e-move-backend&theme=tokyonight&hide_border=true&border_radius=10" /></a> 
+<a href="https://github.com/felipegco/e-move-frontend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=felipegco&repo=e-move-frontend&theme=tokyonight&hide_border=true&border_radius=10" /></a> 
+<a href="https://github.com/felipegco/PI_III_2026TB_GreenTech_Backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=felipegco&repo=PI_III_2026TB_GreenTech_Backend&theme=tokyonight&hide_border=true&border_radius=10" /></a> 
+<a href="https://github.com/felipegco/clinicare-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=felipegco&repo=clinicare-backend&theme=tokyonight&hide_border=true&border_radius=10" /></a>
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it does</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><b>e-Move</b><br/><a href="https://e-move-frontend.vercel.app">Live demo</a></td>
+    <td>Route planner for electric vehicles: virtual garage with 29+ EV models, battery range, charging stations nearby, trip history and CO2 saved.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Security-JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>GreenTech ERP</b><br/>team project</td>
+    <td>Agricultural management API: greenhouses, planting batches, harvests, stock, climate and irrigation logs, role-based access per job title.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>WhatsApp Appointment Assistant</b><br/>private, client project</td>
+    <td>Sends appointment reminders for a dental clinic and uses an LLM to classify patients' free-text replies (confirm, cancel, question), updating the scheduling system and escalating unclear cases to a human.</td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ollama-Llama_3.1-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CliniCare</b></td>
+    <td>Appointment scheduling system for dental clinics, with an OpenAPI (Swagger) documented back-end and a React front-end.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+Currently learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-in_progress-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit_5_%2B_Mockito-in_progress-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-next-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+</div>
+
+
+---
+
+GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=felipegco&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegco&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipegco/felipegco/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipegco/felipegco/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:104d91,100:0d1b2a&height=110&section=footer" />
