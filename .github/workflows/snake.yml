@@ -1,0 +1,41 @@
+# Gera a animacao da cobrinha comendo as contribuicoes, na paleta do portfolio,
+# e publica os SVGs na branch `output` deste mesmo repo.
+#
+# O README aponta para raw.githubusercontent.com/felipegco/felipegco/output/...
+# Sem esta action a branch `output` nao existe e as duas imagens quebram — foi
+# exatamente o que aconteceu com a versao anterior do README.
+#
+# Rodar na mao: aba Actions -> snake -> Run workflow.
+
+name: snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar os SVGs
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # cores: --paper #141416 para dia sem contribuicao, subindo ate --neon #60a5fa
+          outputs: |
+            dist/snake-dark.svg?color_snake=#60a5fa&color_dots=#141416,#1e3a8a,#2563eb,#3b82f6,#60a5fa
+            dist/snake-light.svg?color_snake=#1d4ed8&color_dots=#e5e7eb,#93c5fd,#60a5fa,#3b82f6,#1d4ed8
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
